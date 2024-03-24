@@ -1,5 +1,5 @@
 # evolutionary-algorithm
-##Classic evolutionary algorithm
+## Classic evolutionary algorithm
 
 ### Two main functions:
 - **evolutionary_classic**

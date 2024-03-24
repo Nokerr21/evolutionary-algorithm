@@ -1,7 +1,7 @@
 # evolutionary-algorithm
 ## Classic evolutionary algorithm
 
-### Two main functions:
+### One main function:
 - **evolutionary_classic**
   - Perform the evolutionary algorithm to optimize a given function.
   - This function represents a classic evolutionary algorithm approach where a
